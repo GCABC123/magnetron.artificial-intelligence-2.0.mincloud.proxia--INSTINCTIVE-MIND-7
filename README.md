@@ -40,7 +40,11 @@ REQUIREMENTS:
 
 [*] HARDWARE REQUIREMENTS: fast TPU/GPU.
 
-[*] DEPENDENCIES: INCLUDED
+[*] DEPENDENCIES: INCLUDED. [ALSO INCLUDES DOCKERFILE]
+
+OR
+
+DOWNLOAD DOCKERFILE FROM HERE: https://github.com/GCABC123/magnetron-OpenFace
 
 
 =============================================================
